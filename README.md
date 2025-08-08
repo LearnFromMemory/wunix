@@ -12,6 +12,7 @@ wunix (Whatsapp UNIX) is an unofficial WhatsApp client for Linux. Aim to serve W
 <div align="center">
 <img src="preview.gif" alt="Preview">
 </div>
+
 ## Screenshots
 
 ![App Screenshot](preview1.png)
