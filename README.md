@@ -1,7 +1,8 @@
-# wunix - WhatsApp client for Linux
 <div align="center">
 <img src="wunix.png" alt="Logo">
 </div>
+
+# wunix - WhatsApp client for Linux
 wunix (Whatsapp UNIX) is an unofficial WhatsApp client for Linux. Aim to serve WhatsApp applications to Linux user.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
