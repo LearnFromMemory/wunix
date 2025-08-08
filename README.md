@@ -1,6 +1,6 @@
-
-![Logo](wunix.png)
-
+<div align="center">
+<img src="wunix.png" alt="Logo">
+</div>
 
 # wunix - WhatsApp client for Linux
 wunix (Whatsapp UNIX) is an unofficial WhatsApp client for Linux. Aim to serve WhatsApp applications to Linux user.
